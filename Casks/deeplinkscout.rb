@@ -1,8 +1,8 @@
 cask "deeplinkscout" do
-  version "1.0.7"
-  sha256 "bbc57542382eb3eea4b3750661d441f75a0ce01422f86e1a2f1abb73223ff666"
+  version "1.0.8"
+  sha256 "311a06a45a8beaeed3bdf230341051a10512c46c4adc0ce56ee0f73a3d89fb38"
 
-  url "https://github.com/DominatorVbN/DeeplinkScoutApp/releases/download/v#{version}/DeeplinkScout.dmg"
+  url "https://raw.githubusercontent.com/DominatorVbN/DeeplinkScoutDocs/main/releases/DeeplinkScout-#{version}.dmg"
   name "DeeplinkScout"
   desc "Test and manage deeplinks for iOS and macOS development"
   homepage "https://amitsamant.in/DeeplinkScoutDocs/"
