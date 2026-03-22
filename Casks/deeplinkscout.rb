@@ -1,6 +1,6 @@
 cask "deeplinkscout" do
-  version "1.0.10"
-  sha256 "30fb9441b35d171e48a5a69b230d2d8a48ed1142e0cb3783647ffe2f4c34c2d4"
+  version "1.1.0"
+  sha256 "9edf0e33d76b2b65923c93a0d49cb3ec39e35e2e426574b108f1615540bbfa09"
 
   url "https://raw.githubusercontent.com/DominatorVbN/DeeplinkScoutDocs/main/releases/DeeplinkScout-#{version}.dmg"
   name "DeeplinkScout"
